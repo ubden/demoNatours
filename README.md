@@ -1,6 +1,6 @@
 ## Natours
 
-Natours is a fluid layout website made using HTML5, CSS3, and Sass. I'm currently working on making this fully responsive.
+Natours is a fluid layout website made using HTML5, CSS3, and Sass.
 
 ## Live Demo:
 www.jazdosanjh.com/natours
