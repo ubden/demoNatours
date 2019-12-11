@@ -3,7 +3,7 @@
 Natours is a fluid layout website made using HTML5, CSS3, and Sass.
 
 ## Live Demo:
-www.jazdosanjh.com/natours
+https://ubden.github.io/natours/
 
 ## Built With
 
